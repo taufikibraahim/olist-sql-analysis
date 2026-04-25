@@ -4,6 +4,7 @@
 **Date:** April 2026
 **Dataset:** [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 **Tools:** PostgreSQL · DBeaver
+👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/taufik.ibrahim/viz/OlistE-CommercePerformanceDashboard_17770780602030/OlistE-CommercePerformanceDashboard)
 
 ---
 
